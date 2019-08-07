@@ -1,0 +1,5 @@
+﻿  ek.c
+  main.c
+  Generating Code...
+C:\Users\kagan.namal\Desktop\GitDeneme\denemegit\denemegit\main.c(6,8): warning C4013:  'ekfunc' undefined; assuming extern returning int
+  denemegit.vcxproj -> C:\Users\kagan.namal\Desktop\GitDeneme\denemegit\Debug\denemegit.exe
